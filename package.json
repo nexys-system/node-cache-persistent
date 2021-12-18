@@ -1,5 +1,5 @@
 {
-  "name": "@nexys/template",
+  "name": "@nexys/node-cache",
   "version": "0.0.1",
   "private": false,
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nexys-system/typescript-package"
+    "url": "https://github.com/nexys-system/node-cache-persistent"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,8 +19,7 @@
     "README.md"
   ],
   "keywords": [
-    "typescript",
-    "SDK"
+    "typescript"
   ],
   "dependencies": {
   },
