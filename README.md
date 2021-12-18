@@ -8,7 +8,7 @@
 
 Expands [node-cache](https://www.npmjs.com/package/node-cache) and adds `persistent` option.
 
-## get started
+## Get Started
 
 ```
 const Cache from '@nexys/node-cache';
@@ -17,3 +17,7 @@ const cache = new Cache({ persistent: true });
 
 export default cache;
 ```
+
+## API and Documentation
+
+refer to: https://www.npmjs.com/package/node-cache
