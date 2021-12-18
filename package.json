@@ -22,6 +22,7 @@
     "typescript"
   ],
   "dependencies": {
+    "node-cache": "^5.1.2"
   },
   "devDependencies": {
     "@types/jest": "^25.2.3",
