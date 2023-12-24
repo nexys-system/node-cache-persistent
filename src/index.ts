@@ -116,4 +116,6 @@ class LocalCache extends Cache {
   }
 }
 
+export { LocalCache };
+
 export default LocalCache;
