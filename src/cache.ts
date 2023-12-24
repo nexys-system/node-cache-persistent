@@ -44,6 +44,7 @@ abstract class Cache {
       throw new Error('Cache destroyer not implemented');
     }
   }
+
+export { Cache };
   
-  export default Cache;
-  
+export default Cache;  
